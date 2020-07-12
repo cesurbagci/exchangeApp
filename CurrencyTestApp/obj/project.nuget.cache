@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sk0dQR6tNchOfG+8s/V0ucuYxFu0eqSQ9P+wNRO1p9eaYIWQsE+M5/giIGKwjvU+KYSuL8Iab6kB9qrtC73eTA==",
+  "success": true,
+  "projectFilePath": "/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/CurrencyTestApp/CurrencyTestApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/developer/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

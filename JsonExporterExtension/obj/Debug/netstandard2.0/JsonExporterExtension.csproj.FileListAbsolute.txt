@@ -1,0 +1,9 @@
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/JsonExporterExtension/obj/Debug/netstandard2.0/JsonExporterExtension.csprojAssemblyReference.cache
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/JsonExporterExtension/obj/Debug/netstandard2.0/JsonExporterExtension.AssemblyInfoInputs.cache
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/JsonExporterExtension/obj/Debug/netstandard2.0/JsonExporterExtension.AssemblyInfo.cs
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/JsonExporterExtension/obj/Debug/netstandard2.0/JsonExporterExtension.csproj.CoreCompileInputs.cache
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/JsonExporterExtension/bin/Debug/netstandard2.0/JsonExporterExtension.deps.json
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/JsonExporterExtension/bin/Debug/netstandard2.0/JsonExporterExtension.dll
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/JsonExporterExtension/bin/Debug/netstandard2.0/JsonExporterExtension.pdb
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/JsonExporterExtension/obj/Debug/netstandard2.0/JsonExporterExtension.dll
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/JsonExporterExtension/obj/Debug/netstandard2.0/JsonExporterExtension.pdb

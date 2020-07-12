@@ -1,0 +1,9 @@
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/XmlConvertorExtension/obj/Debug/netstandard2.0/XmlConvertorExtension.csprojAssemblyReference.cache
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/XmlConvertorExtension/obj/Debug/netstandard2.0/XmlConvertorExtension.AssemblyInfoInputs.cache
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/XmlConvertorExtension/obj/Debug/netstandard2.0/XmlConvertorExtension.AssemblyInfo.cs
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/XmlConvertorExtension/obj/Debug/netstandard2.0/XmlConvertorExtension.csproj.CoreCompileInputs.cache
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/XmlConvertorExtension/bin/Debug/netstandard2.0/XmlConvertorExtension.deps.json
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/XmlConvertorExtension/bin/Debug/netstandard2.0/XmlConvertorExtension.dll
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/XmlConvertorExtension/bin/Debug/netstandard2.0/XmlConvertorExtension.pdb
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/XmlConvertorExtension/obj/Debug/netstandard2.0/XmlConvertorExtension.dll
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/XmlConvertorExtension/obj/Debug/netstandard2.0/XmlConvertorExtension.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jR5lqwaVERh++hKwK6equcleGs9qvC4tvj+jvF6kv2A3gC4SvOfvcW1iVOopsD3LDGb21QgZyRT9iowPn6DatA==",
+  "success": true,
+  "projectFilePath": "/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/XmlConvertorExtension/XmlConvertorExtension.csproj",
+  "expectedPackageFiles": [
+    "/Users/developer/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/developer/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

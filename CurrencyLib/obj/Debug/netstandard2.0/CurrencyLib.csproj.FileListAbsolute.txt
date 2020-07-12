@@ -1,0 +1,10 @@
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/CurrencyLib/bin/Debug/netstandard2.0/CurrencyLib.deps.json
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/CurrencyLib/bin/Debug/netstandard2.0/CurrencyLib.dll
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/CurrencyLib/bin/Debug/netstandard2.0/CurrencyLib.pdb
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/CurrencyLib/obj/Debug/netstandard2.0/CurrencyLib.csprojAssemblyReference.cache
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/CurrencyLib/obj/Debug/netstandard2.0/CurrencyLib.AssemblyInfoInputs.cache
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/CurrencyLib/obj/Debug/netstandard2.0/CurrencyLib.AssemblyInfo.cs
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/CurrencyLib/obj/Debug/netstandard2.0/CurrencyLib.csproj.CoreCompileInputs.cache
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/CurrencyLib/obj/Debug/netstandard2.0/CurrencyLib.dll
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/CurrencyLib/obj/Debug/netstandard2.0/CurrencyLib.pdb
+/Users/developer/softwareDevelopment/personal/practices/dotnetcore/oti/CurrencyLib/bin/Debug/netstandard2.0/CurrencyLib.dll.config
